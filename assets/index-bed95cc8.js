@@ -74,10 +74,10 @@ Error generating stack: `+i.message+`
                 ${t!==e.links.length-1?"mb-4":"mb-0"}`,children:n.name},n.name))})]},e.key))})]}),p.jsxs("div",{className:`w-full flex justify-between items-center\r
     md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]`,children:[p.jsx("p",{className:`font-poppins font-normal text-center \r
       text-[18px] leading-[27px] text-white`,children:"2023 HooBank. All Rights Reserved."}),p.jsx("div",{className:"flex flex-row md:mt-0 mt-6",children:Yu.map((e,n)=>p.jsx("a",{href:`${e.link}`,children:p.jsx("img",{src:e.icon,alt:e.id,className:`w-[21px] h-[21px] object-contain
-            cursor-pointer ${n!==Yu.length-1?"mr-6":"mr-0"}`},e.id)}))})]})]}),Sp=({content:e,name:n,title:t,img:r})=>p.jsxs("div",{className:`flex justify-between flex-col px-10 py-12 rounded-[20px] max-w-[370px] md:mr-10\r
+            cursor-pointer ${n!==Yu.length-1?"mr-6":"mr-0"}`},e.id)}))})]})]}),Sp=({content:e,name:n,title:t,img:r})=>p.jsxs("div",{className:`flex justify-between flex-col px-10 py-12 rounded-[20px] max-w-[350px] md:mr-5\r
   sm:mr-5 mr-0 my-5 feedback-card`,children:[p.jsx("img",{src:Qd,alt:"dounle_quotes",className:`w-[42px] \r
     h-[27px] object-contain`}),p.jsx("p",{className:`font-poppins font-normal text-[18px]\r
-    leading-[32px] text-white my-10`,children:e}),p.jsxs("div",{className:"flex flex-row",children:[p.jsx("img",{src:r,alt:"name",className:`w-[48px] \r
+    leading-[32px] text-white my-10 mx-0`,children:e}),p.jsxs("div",{className:"flex flex-row",children:[p.jsx("img",{src:r,alt:"name",className:`w-[48px] \r
       h-[48px] rounded-full`}),p.jsxs("div",{className:"flex flex-col ml-4",children:[p.jsx("h4",{className:`font-poppins font-semibold text-[20px]\r
         leading-[32px] text-white`,children:n}),p.jsx("p",{className:`font-poppins font-normal text-[16px]\r
         leading-[24px] text-dimWhite`,children:t})]})]})]}),Np=()=>p.jsxs("section",{id:"clients",className:`${P.paddingY} 
